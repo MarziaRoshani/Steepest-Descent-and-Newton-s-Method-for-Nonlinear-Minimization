@@ -47,7 +47,7 @@ Here is an example output for both methods:
 
 Using the function $f(x_1, x_2) = x_1^2 + 2x_2^2$
 
-Initial point: [2, 2]
+Initial point: $[2, 2]$
 
 Step 1: [1.5, 1.9]
 
