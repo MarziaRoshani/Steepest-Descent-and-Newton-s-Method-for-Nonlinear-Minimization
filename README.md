@@ -49,13 +49,19 @@ Using the function $f(x_1, x_2) = x_1^2 + 2x_2^2$
 
 Initial point: $[2, 2]$
 
+Epsilon (ε): $0.01$
+
+Max Iterations: $100$
+
+Iterations Taken: $20$
+
 Step 1: $[1.5, 1.9]$
 
 Step 2: $[1.0, 1.6]$
 
 ...
 
-Final solution: $[0.05, 0.1]$
+Final solution: $[0.05, 0.1]$ after $20$ iterations.
 
 ### Newton's Method:
 
