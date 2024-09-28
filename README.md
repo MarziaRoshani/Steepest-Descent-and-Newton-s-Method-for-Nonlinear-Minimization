@@ -69,13 +69,19 @@ Using the function $f(x_1, x_2) = x_1^2 + 2x_2^2$
 
 Initial point: $[2, 2]$
 
+Epsilon (ε): $0.01$
+
+Max Iterations: $50$
+
+Iterations Taken: $10$
+
 Step 1: $[1.4, 1.85]$
 
 Step 2: $[0.8, 1.2]$
 
 ...
 
-Final solution: $[0.0, 0.0]$
+Final solution: $[0.0, 0.0]$ after 10 iterations.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
