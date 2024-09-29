@@ -73,19 +73,15 @@ Steepest Descent by iteration:
 
 ### Newton's Method:
 
-Using the function $f(x_1, x_2, x_3)$ = $40/x_1x_2x_3+(40x_2x_3)+10x_1x_2+20x_1x_3$
+Using the function $f(x_1, x_2, x_3)$ = $40/x_1x_2x_3+40x_2x_3+10x_1x_2+20x_1x_3$
 
-Initial point: $[2, 3]$
+Initial point: $[6, 4, 5]$
 
-Epsilon (ε): $10^(-5)$
+Epsilon (ε): $1e-4$
 
-Max Iterations: $3$
+Max Iterations: $33$
 
- Step 1 : $[0, 1.00000000000000]$
- 
- Step 2 : $[0.400000000000000, 0.600000000000000] 
-
-Final solution: $[0.0, 0.0]$ after 10 iterations.
+Final solution: $[1.9999999887500308, 1.0000000018755486, 0.5000000009377236]$
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
