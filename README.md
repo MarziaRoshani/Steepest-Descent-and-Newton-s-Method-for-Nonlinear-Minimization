@@ -49,11 +49,12 @@ Using the function $f(x_1, x_2) = 4x_1^2 - 4x_1x_2 + 2x_2^2$
 
 Initial point: $[2, 3]$
 
-Epsilon (ε): $10^-5$
+Epsilon (ε): $1e-5$
 
 Max Iterations: $3$
 
 Steepest Descent by ε:
+
         Step 1 : $[0, 1.00000000000000]$
         
         Step 2 : $[0.400000000000000, 0.600000000000000]$
