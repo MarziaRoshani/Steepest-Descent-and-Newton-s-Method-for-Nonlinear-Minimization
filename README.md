@@ -47,39 +47,35 @@ Here is an example output for both methods:
 
 Using the function $f(x_1, x_2) = 4x_1^2 - 4x_1x_2 + 2x_2^2$
 
-Initial point: $[2, 2]$
+Initial point: $[2, 3]$
 
-Epsilon (ε): $0.01$
+Epsilon (ε): $10^(-5)$
 
-Max Iterations: $100$
+Max Iterations: $3$
 
-Iterations Taken: $20$
-
-Step 1: $[1.5, 1.9]$
-
-Step 2: $[1.0, 1.6]$
-
-...
-
-Final solution: $[0.05, 0.1]$ after $20$ iterations.
+Steepest Descent by ε:
+        Step 1 : $[0, 1.00000000000000]$
+        Step 2 : $[0.400000000000000, 0.600000000000000]$
+        Step 3 : $[-1.11022302462516e-16, 0.200000000000000]$
+        Step 4 : $[0.0800000000000000, 0.120000000000000]$
+Steepest Descent by iteration:
+        Step 1 : $[0, 1.00000000000000]$
+        Step 2 : $[0.400000000000000, 0.600000000000000]$
+        Step 3 : $[-1.11022302462516e-16, 0.200000000000000]$
 
 ### Newton's Method:
 
 Using the function $f(x_1, x_2) = x_1^2 + 2x_2^2$
 
-Initial point: $[2, 2]$
+Initial point: $[2, 3]$
 
-Epsilon (ε): $0.01$
+Epsilon (ε): $10^(-5)$
 
-Max Iterations: $50$
+Max Iterations: $3$
 
-Iterations Taken: $10$
-
-Step 1: $[1.4, 1.85]$
-
-Step 2: $[0.8, 1.2]$
-
-...
+ Step 1 : $[0, 1.00000000000000]$
+ 
+ Step 2 : $[0.400000000000000, 0.600000000000000] 
 
 Final solution: $[0.0, 0.0]$ after 10 iterations.
 
