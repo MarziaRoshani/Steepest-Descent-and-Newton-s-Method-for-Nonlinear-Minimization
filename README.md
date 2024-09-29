@@ -37,7 +37,6 @@ Key features:
 
 3. **Running Newton's Method**:
    - Newton's method solves for the next step by computing the inverse of the Hessian matrix and using it to adjust the current point.
-   - The code outputs the solution after each iteration.
 
 ## Example
 
