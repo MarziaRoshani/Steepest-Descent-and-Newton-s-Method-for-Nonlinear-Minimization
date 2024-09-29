@@ -73,7 +73,7 @@ Steepest Descent by iteration:
 
 ### Newton's Method:
 
-Using the function $f(x_1, x_2) = x_1^2 + 2x_2^2$
+Using the function $f(x_1, x_2, x_3) = (40*(1/(x1*x2*x3)))+(40*(x2*x3))+(10*(x1*x2))+(20*(x1*x3))$
 
 Initial point: $[2, 3]$
 
