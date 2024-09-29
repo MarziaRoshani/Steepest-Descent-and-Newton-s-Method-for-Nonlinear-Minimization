@@ -45,7 +45,7 @@ Here is an example output for both methods:
 
 ### Steepest Descent (SD):
 
-Using the function $f(x_1, x_2) = 4x_1^2 - 4x_1x_2 + 2x_2^2
+Using the function $f(x_1, x_2) = 4x_1^2 - 4x_1x_2 + 2x_2^2$
 
 Initial point: $[2, 2]$
 
